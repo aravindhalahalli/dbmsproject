@@ -1,0 +1,52 @@
+	a {
+		text-decoration: none;
+		color: #606060;
+	}
+	h1 {
+		color: brown;
+		font-family: courier;
+		font-size: 300%;
+		text-align: center;
+		letter-spacing: 20px;
+	}
+	h2 {
+		color: brown;
+		font-family: courier;
+		font-size: 200%;
+		letter-spacing: 10px;
+	}
+	h3 {
+		color: brown;
+		font-family: courier;
+		font-size: 200%;
+		letter-spacing: 7px;
+	}
+	h4 {
+		color: brown;
+		font-family: courier;
+		font-size: 170%;
+		letter-spacing: 5px;
+	}
+
+	input[type=submit] {
+		width: 120px;
+		height: 35px;
+		text-align: center;
+		border-radius: 6px;
+		cursor: pointer;
+		font-size: 10px;
+	}
+
+	input[value] {
+		font-size: 17px;
+	}
+	textarea[placeholder] {
+		font-size: 17px;
+		letter-spacing: 1px;
+		font-family: courier;
+		margin-bottom: 0px;
+	}
+
+	textarea {
+		resize: none;
+	}
